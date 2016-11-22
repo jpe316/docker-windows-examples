@@ -1,8 +1,7 @@
 # Fabric Greetings Application
 
 ## What is this?
-1. GreetingService: An example ASP.NET Core / .NET "Hello World" application.
-2. GreetingService.Fabric: Scaffolding for deploying this GreetingService to Service Fabric (in the package folder)
+1. GreetingService: An example ASP.NET Core / .NET FF "Hello World" application.
 
 ## How was this generated?
 "file new .net console exe". 
